@@ -1,0 +1,22 @@
+{
+    "name": "ayumi",
+    "age": "24",
+    "gender": "female",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        {
+            "PHP": [
+                "オブジェクト指向",
+                "JSON/API"
+            ]
+        },
+        "MySQL"
+    ],
+    "hobby":[
+            "eating",
+            "movie",
+            "english"
+             ]       
+}
